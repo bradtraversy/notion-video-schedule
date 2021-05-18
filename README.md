@@ -10,7 +10,7 @@ This is part of a YouTube tutorial using the Notion API to fetch scheduled YouTu
 
 ## Usage
 
-Add your notion secret token and the database id to the .env file
+Add your notion secret token and the database id to the .env-example file and rename to .env
 
 ```
 npm install
