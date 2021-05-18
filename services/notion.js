@@ -17,8 +17,6 @@ module.exports = async function getVideos() {
   const { results } = await notion.request(payload)
 
   const videos = results.map((page) => {
-    console.log(page.properties.Description.rich_text[0].text.content)
-
     return {
       id: page.id,
       title: page.properties.Name.title[0].text.content,
