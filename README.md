@@ -1,6 +1,6 @@
 # Notion API Video Schedule
 
-This is part of a YouTube tutorial using the Notion API to fetch scheduled YouTube videos from notion and display in a webpage
+This is part of a YouTube tutorial using the Notion API to fetch scheduled YouTube videos from notion and display in a webpage. You can change this project to fit your needs.
 
 ## Notion Setup
 
